@@ -1,2 +1,10 @@
-moviepy==0.2.3.2
-requests==2.18.4
+imageio==2.8.0
+imageio-ffmpeg==0.4.2
+pyOpenSSL==19.1.0
+requests==2.22.0
+service-identity==18.1.0
+supervisor==4.1.0
+tqdm==4.45.0
+Twisted==20.3.0
+urllib3==1.22
+w3lib==1.21.0
